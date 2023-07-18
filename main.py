@@ -1,5 +1,5 @@
 import requests
-from bs4 import BeautifulSoup as BS
+from bs4 import BeautifulSoup as BS#BS
 import lxml
 
 url = "https://tables.finance.ua/ua/currency/cash/-/ua/eur/0#3:0"
